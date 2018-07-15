@@ -1,0 +1,12 @@
+0,1,Hp Potion,onetime,20,0
+1,1,Mp Potion,onetime,0,20
+20,5,Rusty Sword,righthand,6,0,0
+21,15,Long Sword,righthand,15,0,0
+22,25,Sword of Knight,righthand,25,0,0
+24,5,Rod of Learner,righthand,2,8,0
+25,15,Wood Rod,righthand,6,20,0
+26,25,Rod of Magic,righthand,12,30,0
+60,5,Rusty Armor,armor,0,0,10
+61,15,Iron Armor,armor,0,0,20
+62,5,Mantle of Learner,armor,0,3,8
+63,15,Mantle of Intelligence,armor,0,7,15

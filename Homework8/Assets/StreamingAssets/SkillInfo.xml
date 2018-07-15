@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skill>
+	<SwordContent1>
+		<data name="Rname">SwordSkill1</data>
+		<data name="name">Blink</data>
+		<data name="type">Move</data>
+		<data name="level">Lv0</data>
+		<data name="cd">4</data>
+		<data name="mp">15</data>
+		<data name="damage">5+3[FFF68F]lv[FFFFFF]+2[FFA500]ad</data>
+		<data name="description">  Charge forward with a great speed and make damage to enemies around.</data>
+	</SwordContent1>
+	<SwordContent2>
+		<data name="Rname">SwordSkill2</data>
+		<data name="name">Shadow Strike</data>
+		<data name="type">Aoe</data>
+		<data name="level">Lv0</data>
+		<data name="cd">5</data>
+		<data name="mp">20</data>
+		<data name="damage">20+8[FFF68F]lv[FFFFFF]+3[FFA500]ad</data>
+		<data name="description">  Use the power of shadow to attack enemy in front of you.</data>
+	</SwordContent2>
+	<SwordContent3>
+		<data name="Rname">SwordSkill3</data>
+		<data name="name">Flame Mode</data>
+		<data name="type">Buff</data>
+		<data name="level">Lv0</data>
+		<data name="cd">1</data>
+		<data name="mp">3</data>
+		<data name="damage">(per second)8+3[FFF68F]lv[FFFFFF]+0.1[FFA500]ad</data>
+		<data name="description">  Inspire the flame power,make damage to enemy around.It will use [A9D8F3]1 mp [FFFFFF]per second,and add [FFA500]30% ad[FFFFFF].</data>
+	</SwordContent3>
+  	<SwordContent4>
+		<data name="Rname">SwordSkill4</data>
+		<data name="name">Ultimate Sky Fire</data>
+		<data name="type">Aoe</data>
+		<data name="level">Lv0</data>
+		<data name="cd">12</data>
+		<data name="mp">40</data>
+		<data name="damage">12+5[FFF68F]lv[FFFFFF]+2[FFA500]ad</data>
+		<data name="description">  Call 4 waves of skt fire,every wave will make damage.</data>
+	</SwordContent4>
+	<MagicContent1>
+		<data name="Rname">MagicSkill1</data>
+		<data name="name">Magic Bomb</data>
+		<data name="type">Move</data>
+		<data name="level">Lv0</data>
+		<data name="cd">3</data>
+		<data name="mp">8</data>
+		<data name="damage">3[FFF68F]lv[FFFFFF]+2[90EE90]ap</data>
+		<data name="description">  Use a trick of magic bomb to retreat.The Bomb will make damage.</data>	
+	</MagicContent1>
+	<MagicContent2>
+		<data name="Rname">MagicSkill2</data>
+		<data name="name">Lightning</data>
+		<data name="type">Aoe</data>
+		<data name="level">Lv0</data>
+		<data name="cd">1</data>
+		<data name="mp">5</data>
+		<data name="damage">10+3[FFF68F]lv[FFFFFF]+3[90EE90]ap</data>
+		<data name="description">  Create lightning from air.Sometimes lightning will not be created.But sometimes your magic can overload and make powerful lightning.
+		To each enemy:20%no lightning,10%double damage </data>
+
+	</MagicContent2>
+	<MagicContent3>
+		<data name="Rname">MagicSkill3</data>
+		<data name="name">Protective Orb</data>
+		<data name="type">Summon</data>
+		<data name="level">Lv0</data>
+		<data name="cd">5</data>
+		<data name="mp">25</data>
+		<data name="damage">every 0.1 sec:5+3[FFF68F]lv[FFFFFF]+1[90EE90]ap</data>
+		<data name="description">  Summon a lightning orb to protect yourself.The orb will move rotate on you,and hurt enemy around.The summon will overload at first.</data>
+	</MagicContent3>
+	<MagicContent4>
+		<data name="Rname">MagicSkill4</data>
+		<data name="name">Magic Shackles</data>
+		<data name="type">Disable</data>
+		<data name="level">Lv0</data>
+		<data name="cd">10</data>
+		<data name="mp">35</data>
+		<data name="damage">25+5[FFF68F]lv[FFFFFF]+3[90EE90]ap</data>
+		<data name="description">  Use the power of magic to trap all of the enemy nearby for 2[FFF68F](+0.5lv) [FFFFFF]seconds and make damage to them.</data>
+	</MagicContent4>
+</Skill>
+
